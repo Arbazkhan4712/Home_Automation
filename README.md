@@ -8,4 +8,4 @@ ESP8266
 Relay Board
 Jumper Wires
 
-[Contect](arbazkhan2174@gmail.com "Gmail")
+[Contact:]( "Gmail")arbazkhan2174@gmail.com
