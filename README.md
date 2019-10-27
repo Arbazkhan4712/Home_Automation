@@ -8,4 +8,8 @@ ESP8266
 Relay Board
 Jumper Wires
 
-[Contact:]( "Gmail")getsetcoding47@gmail.com
+
+## License & Copyright
+© [Arbaz Khan](https://arbazkhan4712.github.io/Contact.html)
+
+Licensed under the [MIT License](License)
